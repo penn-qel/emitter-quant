@@ -1,6 +1,7 @@
-data_folder = 'S:\Projects\hBN_defects\Papers\TreatmentEffects\Data\diamond_pl_scans';
-data_filename = '1bscan002_062719.mat';
-data_file = fullfile(data_folder, data_filename);
+%data_folder = 'S:\Projects\hBN_defects\Papers\TreatmentEffects\Data\diamond_pl_scans';
+%data_filename = '1bscan002_062719.mat';
+%data_file = fullfile(data_folder, data_filename);
+data_file = '1bscan002_062719.mat';
 channel = 2;
 gaussian_blur = 210; %nm
 
